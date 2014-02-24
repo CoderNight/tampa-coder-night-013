@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<rates>
+  <rate>
+    <from>AAA</from>
+    <to>BBB</to>
+    <conversion>0.9480</conversion>
+  </rate>
+  <rate>
+    <from>USD</from>
+    <to>BBB</to>
+    <conversion>0.9280</conversion>
+  </rate>
+</rates>

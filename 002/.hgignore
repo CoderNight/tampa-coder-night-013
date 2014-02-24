@@ -1,0 +1,5 @@
+syntax: glob
+.qmake.cache
+international-trade.pro.user
+Makefile
+build

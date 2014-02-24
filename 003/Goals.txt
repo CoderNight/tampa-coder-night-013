@@ -1,0 +1,10 @@
+Goals:
+   * I wanted to finally figure out the "approved" way to do doc strings in Python. In the end I
+     didn't quite like any of the suggested formats and chose a modified version of the Google
+     style.
+     
+   * I wanted to add debug statements that would let you visual how the mostly brute-force
+     recursion used to find a missing conversion rate works.
+     
+   * I also wanted to use tail-recursion, but couldn't figure out how to accomplish it without
+     expending too much effort.
